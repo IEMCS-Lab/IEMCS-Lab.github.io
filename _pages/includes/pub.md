@@ -6,6 +6,7 @@
 ### Independent Publications
 
 
+- `I-J-9` **Shan Tao**, Li Maokun, Yang Fan, Xu Shenheng and Su Donglin, [Complex-valued Neural Operator for Solving 2D Wave Equation Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/11174085), IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2025.3609818.
 - `I-J-8` **Shan Tao**, Li Maokun, Yang Fan and Xu Shenheng, [Solving Combined Field Integral Equations with Physics-informed Graph Residual Learning for EM Scattering of 3D PEC Targets](https://ieeexplore.ieee.org/abstract/document/10318053), IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2023.3331262.
 - `I-J-7` **Shan Tao**, Zen Jinhong, Song Xiaoqian, Li Maokun, et al., [Physics-informed Supervised Residual Learning for Electromagnetic Modeling](https://ieeexplore.ieee.org/abstract/document/10057211), IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2023.3245281.
 - `I-J-6` **Shan Tao**, Lin Zhichao, Song Xiaoqian, Li Maokun, et al., [Physics-informed Supervised Residual Learning for 2D Inverse Scattering Problem](https://ieeexplore.ieee.org/abstract/document/10041848), IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2023.3242372.
@@ -18,7 +19,8 @@
 
 ### Co-Authored Publications
 
-
+- `C-J-6` Liu Daoqi, **Shan Tao**, Li Maokun, Yang Fan and Xu Shenheng, *Multi-Frequency Neural Born Iterative Method for Solving 2-D Inverse Scattering Problems*, IEEE Transactions on Computational Imaging, vol. 11, pp. 1243-1257, 2025, doi: 10.1109/TCI.2025.3607150.
+- `C-J-5` Cao Huilin; Sun Haoran, Liang Jingwei, **Shan Tao**, Ren Yuxiang and Maokun Li, *Physics-Data Hybrid Driven Edge-Featured Graph Attention Networks for Surface Currents Learning of 3D PEC Targets*, IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2025.3602467.
 - `C-J-4` Salucci M, Arrebola M, **Shan Tao** and Li M, *Artificial Intelligence: New Frontiers in Real-Time Inverse Scattering and Electromagnetic Imaging*, IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6349-6364, Aug. 2022, doi: 10.1109/TAP.2022.3177556. 
 - `C-J-3`	Guo R, **Shan Tao** et al., *Physics Embedded Deep Neural Network for Solving Volume Integral Equation: 2-D Case*, in IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6135-6147, Aug. 2022, doi: 10.1109/TAP.2021.3070152. 
 - `C-J-2`	Guo R, Lin Z, **Shan Tao**, et al., *Physics Embedded Deep Neural Network for Solving Full-Wave Inverse Scattering Problems*, in IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6148-6159, Aug. 2022, doi: 10.1109/TAP.2021.3102135. 
