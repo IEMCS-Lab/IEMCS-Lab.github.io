@@ -1,4 +1,4 @@
-# 💬 Invited Talks
+# 💬 Talks
 - *2025.10.10-10.12*, 'A Novel Approach for 2D Electromagnetic Imaging of Human Brain Based on ODIL', The 8th International Symposium on Electromagnetic Compatibility (ISEMC 2025), Hefei, China
 - *2025.10.10-10.12*, 'A New Approach for 2D Microwave Imaging Based on ODIL', The 8th International Symposium on Electromagnetic Compatibility (ISEMC 2025), Hefei, China
 - *2025.08.08-08.11*, 'A New Approach for 2-D EIT Inversion Based on Optimizing a Discrete Loss Framework', 2025 International Applied Computational Electromagnetics Society Symposium (ACES-China 2025), Huangshan, China
