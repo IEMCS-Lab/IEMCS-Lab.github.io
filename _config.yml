@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao Shan (单涛)"
-description              : "Associate Professor in Beihang University"
+title                    : "TaoShan单涛"
+description              : "Associate Professor"
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Tao Shan (单涛)"
+  name             : "TaoShan单涛"
   avatar           : "images/taoshan.png"
   bio              : "Beihang University"
   location         : "Beijing"
