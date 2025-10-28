@@ -3,7 +3,7 @@
 
 ## ✒️ Journal Paper
 
-### Independent Publications
+### First/Corresponding-author Publications
 
 
 - `I-J-9` **Shan Tao**, Li Maokun, Yang Fan, Xu Shenheng and Su Donglin, [Complex-valued Neural Operator for Solving 2D Wave Equation Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/11174085), IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2025.3609818.
@@ -29,7 +29,7 @@
 
 ## 🏷️ Conference Paper
 
-### Independent Publications
+### First/Corresponding-author Publications
 
 
 - `I-C-6` **Shan Tao**, *Solving Electromagnetic Scattering of 3D PEC Targets Based on Graph Neural Networks*, 2024 International Applied Computational Electromagnetics Society Symposium (ACES-China), Xi'an, China, 2024, pp. 1-2, doi: 10.1109/ACES-China62474.2024.10699762.
